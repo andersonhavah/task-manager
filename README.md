@@ -6,7 +6,7 @@ The Task Manager is a command-line utility that allows users to create, manage, 
 
 This project serves as a learning vehicle for understanding how Kotlin's type system, functional programming paradigms, and standard library empower developers to write cleaner, more maintainable code compared to Java while maintaining strong interoperability with the Java ecosystem.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/DL3jhCqhb9c)
 
 # Development Environment
 
