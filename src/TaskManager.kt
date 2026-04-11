@@ -1,20 +1,10 @@
 /**
  * ============================================================
- *  Task Manager in Kotlin
+ *  Task Manager
  *
  *  Author : Anderson Havah
- *  ─────────────────────────────────────────────────────────
- *  ✔ val  — immutable variables (task fields, constants)
- *  ✔ var  — mutable variables (nextId counter, menu loop flag)
- *  ✔ Expressions    — when expressions, string templates, if/else
- *  ✔ Conditionals   — if/else for validation; when for menu dispatch
- *  ✔ Loops          — while (menu loop), for (list display)
- *  ✔ Functions      — standalone and member functions throughout
- *  ✔ Classes        — TaskManager class encapsulates all logic
- *  ✔ Data class     — Task data class with auto equals/copy/toString
- *  ✔ Collections (create)   — mutableListOf<Task>()
- *  ✔ Collections (modify)   — add(), removeIf(), index assignment
- * ============================================================
+ *  
+ ============================================================
  */
 
 // ── Data Class ────────────────────────────────────────────────────────────────
